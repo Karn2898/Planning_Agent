@@ -1,2 +1,3 @@
 langchain_core
 langgraph
+langchain_community
