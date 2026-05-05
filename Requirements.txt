@@ -1,3 +1,5 @@
+langchain
 langchain_core
 langgraph
 langchain_community
+langchain-google-genai\
