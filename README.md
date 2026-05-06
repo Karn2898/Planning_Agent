@@ -3,6 +3,9 @@
 **AI-Powered Blog Planning & Content Strategy System**
 
 Turn your content ideas into structured, actionable blog plans with intelligent task generation powered by LLMs and LangGraph.
+<img width="1366" height="693" alt="Annotation 2026-05-06 221419" src="https://github.com/user-attachments/assets/f70078fc-3279-4a7a-9f7c-a14f542d3326" />
+
+
 
 ---
 
